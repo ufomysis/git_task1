@@ -30,22 +30,6 @@ class Taxi( Transportation ):
    def find_cost( self ):
       return 40*distance
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
 # main program
 
 travel_cost = 0
